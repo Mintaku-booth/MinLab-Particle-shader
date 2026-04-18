@@ -1,0 +1,15 @@
+{
+  "name": "com.minlab.particle-shader",
+  "version": "1.0.0",
+  "displayName": "MinLab Particle Shader",
+  "description": "自作のパーティクル用シェーダーです。",
+  "unity": "2022.3",
+  "author": {
+    "name": "MinLab",
+    "url": "https://mintakulab.booth.pm/"
+  },
+  "vpmDependencies": {
+    "com.llealloo.audiolink": "^3.1.0",
+    "io.z3y.github.shadergraph": "^1.1.1"
+  }
+}
