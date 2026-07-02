@@ -1,6 +1,6 @@
 {
   "name": "com.minlab.particle-shader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "MinLab Particle Shader",
   "description": "自作のパーティクル用シェーダーです。",
   "unity": "2022.3",
