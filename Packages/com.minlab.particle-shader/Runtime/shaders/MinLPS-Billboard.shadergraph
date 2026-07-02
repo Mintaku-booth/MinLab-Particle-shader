@@ -1959,8 +1959,8 @@
     ],
     "m_VertexContext": {
         "m_Position": {
-            "x": 380.9999084472656,
-            "y": -193.99998474121095
+            "x": 411.00006103515627,
+            "y": -159.0
         },
         "m_Blocks": [
             {
@@ -1976,8 +1976,8 @@
     },
     "m_FragmentContext": {
         "m_Position": {
-            "x": 380.9999084472656,
-            "y": 101.00000762939453
+            "x": 411.00006103515627,
+            "y": 135.99998474121095
         },
         "m_Blocks": [
             {
@@ -5959,7 +5959,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Smoothness",
     "m_StageCapability": 2,
-    "m_Value": 0.5,
+    "m_Value": 0.0,
     "m_DefaultValue": 0.5,
     "m_Labels": []
 }
@@ -6989,10 +6989,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -366.0000305175781,
-            "y": 1242.0,
-            "width": 207.99993896484376,
-            "height": 302.0
+            "x": -444.9999694824219,
+            "y": 1220.9998779296875,
+            "width": 208.0,
+            "height": 302.0001220703125
         }
     },
     "m_Slots": [
@@ -10122,7 +10122,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Occlusion",
     "m_StageCapability": 2,
-    "m_Value": 1.0,
+    "m_Value": 0.0,
     "m_DefaultValue": 1.0,
     "m_Labels": []
 }
